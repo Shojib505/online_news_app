@@ -153,7 +153,7 @@ class CategoryCard extends StatelessWidget {
                     fontWeight: FontWeight.w500),
               ),
             )
-          ],
+          ]
         ),
       ),
     );
