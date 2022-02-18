@@ -40,11 +40,11 @@ class _CategoryNewsState extends State<CategoryNews> {
             Text(
               "Online",
               style:
-              TextStyle(color: Colors.pinkAccent, fontWeight: FontWeight.bold,fontSize: 40),
+              TextStyle(color: Colors.pinkAccent, fontWeight: FontWeight.bold,fontSize: 30),
             ),
             Text(
               " News",
-              style: TextStyle(color: Colors.pinkAccent, fontWeight: FontWeight.bold,fontSize: 40),
+              style: TextStyle(color: Colors.pinkAccent, fontWeight: FontWeight.bold,fontSize: 30),
             )
           ],
         ),
